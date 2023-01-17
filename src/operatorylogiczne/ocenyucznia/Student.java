@@ -5,6 +5,8 @@ public class Student {
     String firstName;
     String lastName;
     Boolean gender;
+    // true: Male
+    // false: Female
     double mathGrade;
     double itGrade;
     double physicsGrade;
